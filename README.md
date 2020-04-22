@@ -136,6 +136,6 @@ The confidence interval(Gray Area) shows the level of risk associated with the p
 
 From My model, I came up with the best zip codes with the highest Return On Investment (ROI)and the level of risk associated with them.
 
-![png](summary table.png)
+![png](output_57_1.png)
 
-The real estate investor will decide how much risk is acceptable.
+ The real estate investor will decide how much risk is acceptable.
